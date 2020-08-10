@@ -2,6 +2,7 @@
 int main()
 {
 	printf("XXXX \n");
-	printf("YYYY");
+	printf("YYYY \n");
+	printf("zzzz");
 	return 0;
 }
