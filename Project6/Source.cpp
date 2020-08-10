@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	printf("XXXX");
+	printf("XXXX \n");
+	printf("YYYY");
 	return 0;
 }
